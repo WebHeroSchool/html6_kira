@@ -1,5 +1,10 @@
 .podium1 {
 	position	: relative;
+.wrap {
+	font-family: Verdana;
+}
+h1{
+	font-family: MyUniqueFont;
 }
 p {
   position: absolute;
