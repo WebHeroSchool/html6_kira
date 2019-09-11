@@ -1,0 +1,38 @@
+.podium1 {
+	position	: relative;
+.wrap {
+	font-family: 'PT Serif', serif;
+}
+h1{
+	font-family: 'Noto Serif', serif;
+}
+p {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  width: 100%;
+}
+.podium2 {
+  float: right;
+  position:absolute;
+  top:0;
+  left: 40%;
+}
+span {
+  position: absolute;
+  top: 270px;
+  left: 0;
+  font-size: 1000%; 
+}
+h2 {
+  position: absolute;
+  top:300px;
+  left: 12%;
+  font-size: 250%
+}
+text {
+	
+  top: 500px;
+  left: 0;
+  width: 100%;
+}
